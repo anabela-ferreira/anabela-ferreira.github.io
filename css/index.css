@@ -1,0 +1,13 @@
+
+#inicio{
+    display: flex;
+    align-items: center;
+    max-width: 100vw;
+    flex-direction: column;
+}
+
+#whiteSquare{
+    z-index: 2;
+    position: relative;
+    top: -600px;
+}
